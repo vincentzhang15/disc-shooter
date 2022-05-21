@@ -1,0 +1,6 @@
+To run the game, go in the "build" folder, then double click "run.bat".
+To reset stored statistics, delete the "score.txt" file in the "build" folder.
+
+All the source code is in the "src" folder.
+
+Additionally there is an important "ReadMe.txt" file in "/src/frisbee/util"
